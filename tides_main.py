@@ -39,7 +39,7 @@ print(today_date)
 
 print(len(titles))
 
-# extract high tide or low tide text headers. Some days there are only 3 tides.
+# extracts high tide or low tide text headers. NOTE: Some days there are only 3 tides.
 first_tide_head = titles[4]
 second_tide_head = titles[5]
 third_tide_head = titles[6]
